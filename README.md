@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
+![](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+---
+<p align="left">
+<a href="#">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Neyon279&show_icons=true&theme=react&includeallcommits=true&count_private=true"/>
+</a>
+</p>
+---
